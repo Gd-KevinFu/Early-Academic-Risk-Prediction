@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "key": "online_learning_engagement_trajectory_type",
+    "legacy_key": "trajectory_type",
+    "chinese_name": "在线学习参与轨迹类型",
+    "english_name": "Online Learning Engagement Trajectory Type",
+    "description": "Trajectory shape of online learning engagement across course phases."
+  },
+  {
+    "id": 2,
+    "key": "learning_time_investment_level",
+    "legacy_key": "time_invest_level",
+    "chinese_name": "学习时间投入水平",
+    "english_name": "Learning Time Investment Level",
+    "description": "Overall level of online learning time investment and intensity."
+  },
+  {
+    "id": 3,
+    "key": "academic_procrastination_tendency",
+    "legacy_key": "procrastination_level",
+    "chinese_name": "学业拖延倾向",
+    "english_name": "Academic Procrastination Tendency",
+    "description": "Submission timing pattern indicating procrastination tendency."
+  },
+  {
+    "id": 4,
+    "key": "online_learning_persistence_level",
+    "legacy_key": "persistence_level",
+    "chinese_name": "在线坚持度",
+    "english_name": "Online Learning Persistence Level",
+    "description": "Continuity and persistence of online learning engagement."
+  },
+  {
+    "id": 5,
+    "key": "daily_routine_stability_level",
+    "legacy_key": "routine_stability_level",
+    "chinese_name": "生活作息稳定性",
+    "english_name": "Daily Routine Stability Level",
+    "description": "Routine stability inferred from campus card timing distributions."
+  },
+  {
+    "id": 6,
+    "key": "late_time_consumption_tendency",
+    "legacy_key": "consume_pressure_level",
+    "chinese_name": "偏晚消费倾向",
+    "english_name": "Late-Time Consumption Tendency",
+    "description": "Tendency to spend more during later time periods of the day."
+  },
+  {
+    "id": 7,
+    "key": "health_related_behavior_and_lifestyle_index",
+    "legacy_key": "lifestyle_self_discipline_level",
+    "chinese_name": "健康相关行为与生活方式指数",
+    "english_name": "Health-Related Behavior and Lifestyle Index",
+    "description": "Lifestyle index derived from timing regularity and late-time behavior."
+  },
+  {
+    "id": 8,
+    "key": "academic_life_composite_risk_signal_index",
+    "legacy_key": "stress_risk_level",
+    "chinese_name": "学业–生活综合风险信号指数",
+    "english_name": "Academic-Life Composite Risk Signal Index",
+    "description": "Composite signal combining academic risk and lifestyle risk."
+  },
+  {
+    "id": 9,
+    "key": "academic_lifestyle_synergy_type",
+    "legacy_key": "ach_health_type",
+    "chinese_name": "学业–生活方式协同类型",
+    "english_name": "Academic-Lifestyle Synergy Type",
+    "description": "Joint type defined by academic performance and lifestyle profile."
+  }
+]

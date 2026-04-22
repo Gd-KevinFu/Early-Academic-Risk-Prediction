@@ -1,0 +1,10 @@
+﻿id,key,legacy_key,chinese_name,english_name,description
+1,online_learning_engagement_trajectory_type,trajectory_type,在线学习参与轨迹类型,Online Learning Engagement Trajectory Type,Trajectory shape of online learning engagement across course phases.
+2,learning_time_investment_level,time_invest_level,学习时间投入水平,Learning Time Investment Level,Overall level of online learning time investment and intensity.
+3,academic_procrastination_tendency,procrastination_level,学业拖延倾向,Academic Procrastination Tendency,Submission timing pattern indicating procrastination tendency.
+4,online_learning_persistence_level,persistence_level,在线坚持度,Online Learning Persistence Level,Continuity and persistence of online learning engagement.
+5,daily_routine_stability_level,routine_stability_level,生活作息稳定性,Daily Routine Stability Level,Routine stability inferred from campus card timing distributions.
+6,late_time_consumption_tendency,consume_pressure_level,偏晚消费倾向,Late-Time Consumption Tendency,Tendency to spend more during later time periods of the day.
+7,health_related_behavior_and_lifestyle_index,lifestyle_self_discipline_level,健康相关行为与生活方式指数,Health-Related Behavior and Lifestyle Index,Lifestyle index derived from timing regularity and late-time behavior.
+8,academic_life_composite_risk_signal_index,stress_risk_level,学业–生活综合风险信号指数,Academic-Life Composite Risk Signal Index,Composite signal combining academic risk and lifestyle risk.
+9,academic_lifestyle_synergy_type,ach_health_type,学业–生活方式协同类型,Academic-Lifestyle Synergy Type,Joint type defined by academic performance and lifestyle profile.
